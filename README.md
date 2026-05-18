@@ -26,12 +26,16 @@ Tech Stack
 
 Project Structure
 Learning-Management-System/
-├── main.py                  # CLI app logic, classes, and menu
-├── api.py                   # FastAPI REST API
-├── db.py                    # MySQL database connection (not committed)
-├── db.example.py            # Template for db.py
-├── create-db-template.sql   # Database schema and seed data
-└── README.md
+
+main.py                  # CLI app logic, classes, and menu
+
+api.py                   # FastAPI REST API
+
+db.py                    # MySQL database connection (not committed)
+
+create-db-template.sql   # Database schema and seed data
+
+README.md
 
  Getting Started
 

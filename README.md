@@ -80,7 +80,6 @@ Database Schema
 
 ---
 
-Sample Usage
 LMS Menu ---
 
 Add Student
